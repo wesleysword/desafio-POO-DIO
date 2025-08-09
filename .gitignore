@@ -33,7 +33,7 @@ bin/
 
 ### Eclipse ###
 .metadata
-bin/
+
 tmp/
 *.tmp
 *.bak
@@ -60,7 +60,7 @@ local.properties
 .autotools
 
 # Java annotation processor (APT)
-.factorypath
+
 
 # PDT-specific (PHP Development Tools)
 .buildpath
@@ -75,7 +75,7 @@ local.properties
 .texlipse
 
 # STS (Spring Tool Suite)
-.springBeans
+
 
 # Code Recommenders
 .recommenders/
@@ -150,7 +150,7 @@ cmake-build-*/
 *.iws
 
 # IntelliJ
-out/
+
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
